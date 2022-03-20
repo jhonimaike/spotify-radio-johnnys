@@ -4,5 +4,5 @@ build:
   config:
     PORT: 3000
 
-  run:
-    web: yarn start
+run:
+  web: yarn start
