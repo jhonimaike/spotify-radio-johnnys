@@ -1,6 +1,7 @@
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
+//
 // ja que nao existe mais o __dirname e tampouco o __filepath
 // temos que obter de outra formatting
 
